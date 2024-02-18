@@ -1,6 +1,6 @@
 # MyDockerFiles
 
--test line 
+-test line \
 test line 
 
 # Line
